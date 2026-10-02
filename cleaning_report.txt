@@ -1,0 +1,29 @@
+RAW shape: (510, 9)
+RAW missing:
+application_id            0
+service_name              0
+applicant_age             0
+district                 73
+channel                 105
+status                    0
+processing_time_days      0
+satisfaction_score       39
+submission_date           0
+RAW duplicates: 9
+Duplicates removed: 9
+Invalid ages fixed via median 50: 28
+Time outliers handled (cap p99=120.3): 7
+Missing satisfaction imputed (service-wise median).
+Bad dates coerced/filled: 12
+CLEANED shape: (501, 9)
+CLEANED nulls total: 0
+Stats:
+       applicant_age  processing_time_days  satisfaction_score
+count         501.00                501.00              501.00
+mean           50.67                  7.18                3.53
+std            19.35                 13.77                1.21
+min            18.00                  0.00                1.00
+25%            34.00                  1.50                3.00
+50%            50.00                  4.00                4.00
+75%            68.00                  8.40                4.00
+max            84.00                120.30                5.00

@@ -1,0 +1,502 @@
+application_id,service_name,applicant_age,district,channel,status,processing_time_days,satisfaction_score,submission_date
+EGOV-1000,Pension Scheme,77,Patna,Portal,Completed,16.5,1,2024-01-01
+EGOV-1001,Voter ID Registration,46,Patna,Unknown,In Progress,12.5,4,2024-01-02
+EGOV-1002,Driving Licence,47,Lucknow,Csc Center,Completed,2.0,1,2024-01-03
+EGOV-1003,Pension Scheme,81,Unknown,Mobile App,Completed,11.4,4,2024-01-04
+EGOV-1004,Tax Filing (ITR),32,Patna,Portal,Completed,0.0,2,2024-01-05
+EGOV-1005,Ration Card,39,Bhopal,Csc Center,Completed,0.1,4,2024-01-06
+EGOV-1006,Driving Licence,68,Patna,Csc Center,Pending,5.5,4,2024-01-07
+EGOV-1007,Driving Licence,72,Lucknow,Mobile App,Completed,2.7,5,2024-01-08
+EGOV-1008,Pension Scheme,81,Patna,Unknown,Completed,2.9,4,2024-01-09
+EGOV-1009,Passport Application,60,Bhopal,Kiosk,Failed,5.0,5,2024-01-10
+EGOV-1010,Tax Filing (ITR),38,Lucknow,Kiosk,Failed,1.3,4,2024-01-11
+EGOV-1011,Pension Scheme,46,Unknown,Csc Center,Completed,1.4,4,2024-01-12
+EGOV-1012,Tax Filing (ITR),61,Lucknow,Mobile App,Pending,4.0,4,2024-01-13
+EGOV-1013,Tax Filing (ITR),37,Lucknow,Kiosk,Pending,8.4,4,2024-06-15
+EGOV-1014,Ration Card,80,Lucknow,Csc Center,Failed,5.8,4,2024-01-15
+EGOV-1015,Driving Licence,41,Lucknow,Unknown,Completed,2.1,4,2024-01-16
+EGOV-1016,Voter ID Registration,50,Jaipur,Kiosk,Completed,3.4,4,2024-01-17
+EGOV-1017,Ration Card,31,Unknown,Csc Center,Completed,1.1,3,2024-01-18
+EGOV-1018,Ration Card,47,Patna,Csc Center,In Progress,0.5,2,2024-01-19
+EGOV-1019,Tax Filing (ITR),23,Unknown,Portal,In Progress,9.2,1,2024-01-20
+EGOV-1020,Birth Certificate,57,Jaipur,Unknown,Completed,120.3,3,2024-01-21
+EGOV-1021,Driving Licence,62,Patna,Portal,Failed,1.2,1,2024-01-22
+EGOV-1022,Passport Application,53,Unknown,Mobile App,Completed,7.1,4,2024-01-23
+EGOV-1023,Ration Card,56,Lucknow,Portal,Pending,5.8,3,2024-06-15
+EGOV-1024,Voter ID Registration,40,Lucknow,Portal,In Progress,6.0,5,2024-01-25
+EGOV-1025,Birth Certificate,64,Patna,Kiosk,Completed,1.6,1,2024-01-26
+EGOV-1026,Birth Certificate,39,Bhopal,Csc Center,Completed,1.6,3,2024-01-27
+EGOV-1027,Passport Application,38,Bhopal,Unknown,Failed,1.5,5,2024-01-28
+EGOV-1028,Ration Card,27,Patna,Portal,Pending,1.1,4,2024-01-29
+EGOV-1029,Voter ID Registration,74,Patna,Unknown,Completed,6.4,1,2024-01-30
+EGOV-1030,Driving Licence,21,Lucknow,Portal,Pending,11.3,5,2024-01-31
+EGOV-1031,Aadhaar Update,71,Jaipur,Mobile App,Completed,7.7,5,2024-02-01
+EGOV-1032,Voter ID Registration,50,Lucknow,Portal,Completed,9.4,3,2024-02-02
+EGOV-1033,Passport Application,59,Patna,Kiosk,In Progress,3.1,3,2024-02-03
+EGOV-1034,Birth Certificate,34,Bhopal,Csc Center,Pending,6.4,4,2024-02-04
+EGOV-1035,Driving Licence,79,Jaipur,Mobile App,Pending,2.6,4,2024-02-05
+EGOV-1036,Voter ID Registration,22,Jaipur,Portal,Completed,120.3,4,2024-02-06
+EGOV-1037,Aadhaar Update,30,Lucknow,Unknown,Completed,3.9,5,2024-02-07
+EGOV-1038,Aadhaar Update,28,Patna,Mobile App,Failed,1.2,3,2024-02-08
+EGOV-1039,Tax Filing (ITR),29,Bhopal,Mobile App,Failed,2.9,4,2024-02-09
+EGOV-1040,Tax Filing (ITR),80,Lucknow,Portal,Pending,19.9,3,2024-02-10
+EGOV-1041,Pension Scheme,46,Jaipur,Mobile App,Failed,1.7,5,2024-02-11
+EGOV-1042,Passport Application,77,Lucknow,Unknown,Completed,0.9,4,2024-02-12
+EGOV-1043,Ration Card,65,Lucknow,Mobile App,Completed,3.3,4,2024-02-13
+EGOV-1044,Voter ID Registration,39,Patna,Unknown,Pending,9.4,3,2024-02-14
+EGOV-1045,Voter ID Registration,72,Bhopal,Portal,Pending,5.2,3,2024-02-15
+EGOV-1046,Ration Card,77,Patna,Csc Center,In Progress,6.9,4,2024-02-16
+EGOV-1047,Pension Scheme,76,Jaipur,Mobile App,Pending,1.3,5,2024-02-17
+EGOV-1048,Birth Certificate,36,Lucknow,Csc Center,Completed,5.8,4,2024-02-18
+EGOV-1049,Birth Certificate,72,Lucknow,Unknown,Failed,2.3,1,2024-02-19
+EGOV-1050,Pension Scheme,72,Lucknow,Mobile App,Pending,10.8,5,2024-06-15
+EGOV-1051,Birth Certificate,63,Jaipur,Kiosk,Completed,6.0,1,2024-02-21
+EGOV-1052,Tax Filing (ITR),66,Jaipur,Csc Center,In Progress,1.3,4,2024-02-22
+EGOV-1053,Voter ID Registration,56,Patna,Mobile App,Completed,0.4,1,2024-02-23
+EGOV-1054,Pension Scheme,84,Patna,Csc Center,Completed,0.3,4,2024-02-24
+EGOV-1055,Voter ID Registration,29,Patna,Mobile App,Failed,2.8,2,2024-02-25
+EGOV-1056,Ration Card,68,Bhopal,Portal,Pending,1.9,5,2024-02-26
+EGOV-1057,Aadhaar Update,74,Lucknow,Csc Center,Completed,6.2,4,2024-02-27
+EGOV-1058,Tax Filing (ITR),22,Lucknow,Kiosk,Failed,4.2,2,2024-02-28
+EGOV-1059,Driving Licence,67,Patna,Kiosk,Completed,1.9,3,2024-02-29
+EGOV-1060,Tax Filing (ITR),74,Lucknow,Unknown,Completed,1.0,2,2024-03-01
+EGOV-1061,Pension Scheme,19,Patna,Mobile App,In Progress,0.8,2,2024-03-02
+EGOV-1062,Driving Licence,82,Unknown,Csc Center,Failed,12.0,4,2024-03-03
+EGOV-1063,Aadhaar Update,20,Patna,Unknown,Failed,1.7,4,2024-03-04
+EGOV-1064,Pension Scheme,61,Jaipur,Csc Center,Completed,6.3,5,2024-03-05
+EGOV-1065,Passport Application,69,Lucknow,Mobile App,Failed,10.0,4,2024-03-06
+EGOV-1066,Voter ID Registration,54,Patna,Kiosk,Completed,5.7,4,2024-03-07
+EGOV-1067,Aadhaar Update,66,Lucknow,Portal,Completed,11.8,2,2024-03-08
+EGOV-1068,Voter ID Registration,30,Unknown,Kiosk,Completed,3.0,3,2024-03-09
+EGOV-1069,Birth Certificate,27,Unknown,Unknown,In Progress,18.8,5,2024-03-10
+EGOV-1070,Passport Application,44,Unknown,Portal,Pending,0.9,4,2024-03-11
+EGOV-1071,Passport Application,33,Lucknow,Unknown,Completed,0.6,3,2024-03-12
+EGOV-1072,Aadhaar Update,31,Lucknow,Mobile App,Pending,6.4,3,2024-03-13
+EGOV-1073,Passport Application,77,Lucknow,Portal,Failed,17.2,4,2024-03-14
+EGOV-1074,Driving Licence,33,Lucknow,Unknown,Completed,9.9,4,2024-03-15
+EGOV-1075,Passport Application,72,Unknown,Mobile App,Completed,0.5,3,2024-03-16
+EGOV-1076,Voter ID Registration,69,Unknown,Kiosk,Completed,2.0,3,2024-03-17
+EGOV-1077,Voter ID Registration,76,Patna,Mobile App,In Progress,16.0,5,2024-03-18
+EGOV-1078,Pension Scheme,37,Patna,Csc Center,Completed,1.8,1,2024-03-19
+EGOV-1079,Voter ID Registration,23,Lucknow,Mobile App,Completed,9.1,1,2024-03-20
+EGOV-1080,Pension Scheme,26,Jaipur,Mobile App,Completed,10.5,4,2024-03-21
+EGOV-1081,Voter ID Registration,50,Unknown,Csc Center,Failed,4.1,5,2024-03-22
+EGOV-1082,Driving Licence,72,Jaipur,Unknown,Completed,2.9,3,2024-03-23
+EGOV-1083,Ration Card,50,Patna,Unknown,Completed,3.6,4,2024-03-24
+EGOV-1084,Pension Scheme,48,Patna,Mobile App,Completed,1.5,4,2024-03-25
+EGOV-1085,Tax Filing (ITR),62,Jaipur,Csc Center,Pending,13.2,4,2024-03-26
+EGOV-1086,Birth Certificate,50,Unknown,Csc Center,In Progress,3.6,4,2024-03-27
+EGOV-1087,Aadhaar Update,30,Jaipur,Kiosk,Pending,12.8,4,2024-03-28
+EGOV-1088,Voter ID Registration,75,Patna,Unknown,In Progress,0.7,4,2024-03-29
+EGOV-1089,Passport Application,78,Bhopal,Portal,Failed,26.7,4,2024-03-30
+EGOV-1090,Ration Card,77,Unknown,Unknown,Pending,3.5,4,2024-03-31
+EGOV-1091,Voter ID Registration,83,Unknown,Unknown,Completed,0.3,4,2024-04-01
+EGOV-1092,Passport Application,36,Lucknow,Kiosk,Completed,0.2,5,2024-04-02
+EGOV-1093,Birth Certificate,81,Lucknow,Portal,Pending,8.2,1,2024-04-03
+EGOV-1094,Birth Certificate,40,Bhopal,Kiosk,Completed,6.5,5,2024-04-04
+EGOV-1095,Birth Certificate,30,Patna,Portal,Failed,9.7,5,2024-04-05
+EGOV-1096,Driving Licence,65,Unknown,Mobile App,Completed,0.7,3,2024-04-06
+EGOV-1097,Voter ID Registration,71,Jaipur,Portal,Failed,0.2,4,2024-04-07
+EGOV-1098,Birth Certificate,43,Bhopal,Kiosk,In Progress,4.3,4,2024-04-08
+EGOV-1099,Driving Licence,83,Lucknow,Unknown,Failed,2.9,3,2024-04-09
+EGOV-1100,Pension Scheme,61,Patna,Portal,In Progress,3.7,3,2024-04-10
+EGOV-1101,Passport Application,76,Lucknow,Portal,Completed,28.7,1,2024-04-11
+EGOV-1102,Passport Application,83,Lucknow,Csc Center,Completed,21.2,3,2024-04-12
+EGOV-1103,Voter ID Registration,30,Lucknow,Unknown,Completed,17.1,5,2024-04-13
+EGOV-1104,Passport Application,62,Lucknow,Mobile App,Completed,9.2,3,2024-04-14
+EGOV-1105,Passport Application,53,Jaipur,Kiosk,Completed,2.6,5,2024-04-15
+EGOV-1106,Birth Certificate,47,Unknown,Mobile App,In Progress,3.2,4,2024-04-16
+EGOV-1107,Voter ID Registration,37,Lucknow,Unknown,Completed,4.8,5,2024-04-17
+EGOV-1108,Birth Certificate,24,Patna,Portal,Completed,10.7,4,2024-04-18
+EGOV-1109,Pension Scheme,83,Bhopal,Portal,Completed,0.4,1,2024-04-19
+EGOV-1110,Ration Card,48,Patna,Unknown,Completed,3.3,4,2024-04-20
+EGOV-1111,Pension Scheme,66,Patna,Portal,Completed,0.5,1,2024-04-21
+EGOV-1112,Ration Card,24,Patna,Portal,Pending,4.3,4,2024-04-22
+EGOV-1113,Birth Certificate,33,Lucknow,Portal,Completed,13.7,4,2024-04-23
+EGOV-1114,Pension Scheme,72,Jaipur,Kiosk,Completed,9.2,2,2024-04-24
+EGOV-1115,Voter ID Registration,50,Patna,Kiosk,In Progress,1.6,3,2024-04-25
+EGOV-1116,Aadhaar Update,83,Lucknow,Csc Center,Pending,22.4,5,2024-04-26
+EGOV-1117,Birth Certificate,18,Patna,Mobile App,Completed,6.6,5,2024-04-27
+EGOV-1118,Ration Card,30,Patna,Unknown,Completed,0.1,4,2024-04-28
+EGOV-1119,Driving Licence,38,Lucknow,Unknown,Completed,1.8,3,2024-04-29
+EGOV-1120,Ration Card,50,Unknown,Unknown,In Progress,1.8,4,2024-04-30
+EGOV-1121,Driving Licence,46,Unknown,Csc Center,Failed,0.4,3,2024-05-01
+EGOV-1122,Passport Application,38,Bhopal,Kiosk,Failed,19.3,4,2024-05-02
+EGOV-1123,Pension Scheme,26,Lucknow,Csc Center,Completed,3.9,4,2024-05-03
+EGOV-1124,Driving Licence,64,Bhopal,Unknown,Completed,13.6,5,2024-06-15
+EGOV-1125,Ration Card,49,Unknown,Mobile App,In Progress,2.3,5,2024-05-05
+EGOV-1126,Passport Application,47,Lucknow,Portal,Pending,0.8,1,2024-05-06
+EGOV-1127,Aadhaar Update,47,Lucknow,Kiosk,Completed,3.9,4,2024-05-07
+EGOV-1128,Voter ID Registration,75,Lucknow,Kiosk,Completed,0.7,5,2024-05-08
+EGOV-1129,Voter ID Registration,65,Unknown,Csc Center,In Progress,4.0,1,2024-05-09
+EGOV-1130,Voter ID Registration,57,Bhopal,Kiosk,Completed,15.2,5,2024-05-10
+EGOV-1131,Driving Licence,26,Bhopal,Unknown,Completed,4.4,3,2024-05-11
+EGOV-1132,Aadhaar Update,81,Lucknow,Unknown,Completed,5.8,4,2024-05-12
+EGOV-1133,Driving Licence,79,Patna,Csc Center,Completed,1.0,5,2024-05-13
+EGOV-1134,Pension Scheme,47,Jaipur,Unknown,Failed,0.3,4,2024-05-14
+EGOV-1135,Driving Licence,54,Unknown,Mobile App,Completed,0.7,2,2024-05-15
+EGOV-1136,Aadhaar Update,57,Jaipur,Csc Center,Failed,5.5,4,2024-05-16
+EGOV-1137,Aadhaar Update,58,Jaipur,Mobile App,Failed,0.6,4,2024-05-17
+EGOV-1138,Pension Scheme,43,Bhopal,Portal,Completed,2.8,5,2024-05-18
+EGOV-1139,Aadhaar Update,27,Bhopal,Mobile App,Completed,4.8,3,2024-05-19
+EGOV-1140,Ration Card,26,Patna,Portal,Pending,3.0,3,2024-05-20
+EGOV-1141,Aadhaar Update,60,Jaipur,Portal,Completed,1.1,5,2024-05-21
+EGOV-1142,Voter ID Registration,50,Jaipur,Mobile App,Failed,1.9,3,2024-05-22
+EGOV-1143,Ration Card,50,Lucknow,Csc Center,In Progress,15.8,4,2024-05-23
+EGOV-1144,Ration Card,22,Bhopal,Unknown,In Progress,6.8,4,2024-05-24
+EGOV-1145,Pension Scheme,40,Jaipur,Unknown,Pending,4.1,5,2024-05-25
+EGOV-1146,Tax Filing (ITR),48,Patna,Portal,In Progress,0.1,4,2024-05-26
+EGOV-1147,Tax Filing (ITR),21,Patna,Portal,Completed,29.3,4,2024-05-27
+EGOV-1148,Aadhaar Update,82,Patna,Csc Center,In Progress,6.7,2,2024-05-28
+EGOV-1149,Ration Card,72,Patna,Kiosk,Completed,2.3,2,2024-05-29
+EGOV-1150,Tax Filing (ITR),43,Unknown,Mobile App,Completed,12.7,2,2024-05-30
+EGOV-1151,Tax Filing (ITR),50,Unknown,Portal,Failed,1.8,2,2024-05-31
+EGOV-1152,Aadhaar Update,35,Patna,Unknown,Completed,4.7,4,2024-06-01
+EGOV-1153,Tax Filing (ITR),50,Patna,Csc Center,Completed,6.1,5,2024-06-02
+EGOV-1154,Driving Licence,24,Jaipur,Mobile App,Failed,1.5,4,2024-06-03
+EGOV-1155,Passport Application,38,Bhopal,Csc Center,Completed,23.0,5,2024-06-04
+EGOV-1156,Pension Scheme,78,Patna,Mobile App,Completed,8.3,4,2024-06-05
+EGOV-1157,Passport Application,63,Lucknow,Mobile App,In Progress,4.9,5,2024-06-06
+EGOV-1158,Aadhaar Update,50,Patna,Portal,In Progress,1.2,4,2024-06-07
+EGOV-1159,Voter ID Registration,38,Patna,Csc Center,Completed,0.3,4,2024-06-08
+EGOV-1160,Pension Scheme,37,Lucknow,Csc Center,Failed,2.3,4,2024-06-09
+EGOV-1161,Aadhaar Update,76,Lucknow,Unknown,Completed,8.4,2,2024-06-10
+EGOV-1162,Ration Card,51,Unknown,Unknown,Pending,1.9,3,2024-06-11
+EGOV-1163,Voter ID Registration,26,Bhopal,Portal,Completed,4.7,5,2024-06-12
+EGOV-1164,Passport Application,69,Jaipur,Portal,Failed,7.8,5,2024-06-13
+EGOV-1165,Aadhaar Update,27,Bhopal,Kiosk,Completed,0.7,3,2024-06-14
+EGOV-1166,Ration Card,37,Bhopal,Unknown,Pending,6.9,4,2024-06-15
+EGOV-1167,Pension Scheme,44,Bhopal,Mobile App,Failed,0.6,5,2024-06-16
+EGOV-1168,Pension Scheme,31,Bhopal,Csc Center,Completed,20.1,1,2024-06-17
+EGOV-1169,Birth Certificate,76,Lucknow,Portal,Completed,4.0,3,2024-06-18
+EGOV-1170,Ration Card,27,Lucknow,Csc Center,Completed,1.0,5,2024-06-19
+EGOV-1171,Driving Licence,50,Unknown,Csc Center,Completed,2.5,3,2024-06-20
+EGOV-1172,Tax Filing (ITR),33,Patna,Kiosk,Completed,3.2,1,2024-06-21
+EGOV-1173,Voter ID Registration,63,Lucknow,Unknown,Pending,8.5,4,2024-06-22
+EGOV-1174,Ration Card,26,Bhopal,Portal,In Progress,8.2,5,2024-06-23
+EGOV-1175,Birth Certificate,75,Unknown,Csc Center,Completed,5.7,4,2024-06-24
+EGOV-1176,Tax Filing (ITR),33,Patna,Portal,Completed,0.7,3,2024-06-25
+EGOV-1177,Tax Filing (ITR),23,Lucknow,Mobile App,Completed,1.0,3,2024-06-26
+EGOV-1178,Aadhaar Update,42,Patna,Kiosk,In Progress,0.6,4,2024-06-27
+EGOV-1179,Tax Filing (ITR),66,Jaipur,Mobile App,In Progress,5.2,4,2024-06-28
+EGOV-1180,Driving Licence,30,Lucknow,Portal,Completed,12.6,5,2024-06-29
+EGOV-1181,Pension Scheme,83,Patna,Portal,Completed,3.4,2,2024-06-30
+EGOV-1182,Birth Certificate,26,Lucknow,Unknown,In Progress,1.1,5,2024-07-01
+EGOV-1183,Tax Filing (ITR),39,Patna,Csc Center,Completed,4.9,1,2024-07-02
+EGOV-1184,Aadhaar Update,66,Jaipur,Csc Center,Completed,10.0,3,2024-07-03
+EGOV-1185,Driving Licence,50,Unknown,Mobile App,Failed,8.1,1,2024-07-04
+EGOV-1186,Passport Application,37,Lucknow,Kiosk,Completed,12.8,3,2024-07-05
+EGOV-1187,Pension Scheme,30,Patna,Csc Center,Completed,2.0,4,2024-07-06
+EGOV-1188,Pension Scheme,71,Lucknow,Unknown,In Progress,1.3,4,2024-07-07
+EGOV-1189,Birth Certificate,50,Lucknow,Mobile App,Pending,12.7,2,2024-07-08
+EGOV-1190,Pension Scheme,67,Patna,Mobile App,Failed,6.4,4,2024-07-09
+EGOV-1191,Tax Filing (ITR),56,Patna,Unknown,Failed,2.2,1,2024-06-15
+EGOV-1192,Aadhaar Update,72,Bhopal,Kiosk,Completed,8.1,5,2024-07-11
+EGOV-1193,Pension Scheme,53,Patna,Unknown,Completed,10.1,4,2024-07-12
+EGOV-1194,Pension Scheme,28,Unknown,Kiosk,Pending,5.7,3,2024-07-13
+EGOV-1195,Passport Application,19,Lucknow,Unknown,Failed,7.0,4,2024-07-14
+EGOV-1196,Passport Application,49,Lucknow,Unknown,Completed,2.8,3,2024-01-15
+EGOV-1197,Voter ID Registration,32,Unknown,Portal,Failed,4.6,1,2024-07-16
+EGOV-1198,Driving Licence,23,Patna,Mobile App,Pending,4.5,3,2024-07-17
+EGOV-1199,Tax Filing (ITR),72,Unknown,Unknown,Pending,11.3,5,2024-07-18
+EGOV-1200,Pension Scheme,31,Jaipur,Unknown,Completed,11.0,4,2024-07-19
+EGOV-1201,Ration Card,21,Unknown,Csc Center,In Progress,10.7,2,2024-07-20
+EGOV-1202,Pension Scheme,60,Lucknow,Mobile App,In Progress,0.1,5,2024-07-21
+EGOV-1203,Aadhaar Update,27,Unknown,Csc Center,Completed,8.3,4,2024-07-22
+EGOV-1204,Voter ID Registration,54,Lucknow,Mobile App,Pending,8.5,5,2024-07-23
+EGOV-1205,Driving Licence,56,Lucknow,Csc Center,Completed,6.8,4,2024-07-24
+EGOV-1206,Ration Card,23,Lucknow,Unknown,Completed,8.5,4,2024-07-25
+EGOV-1207,Voter ID Registration,64,Patna,Unknown,Failed,11.1,2,2024-07-26
+EGOV-1208,Birth Certificate,41,Bhopal,Portal,Failed,3.8,2,2024-07-27
+EGOV-1209,Driving Licence,80,Lucknow,Csc Center,Completed,4.2,4,2024-07-28
+EGOV-1210,Pension Scheme,19,Lucknow,Kiosk,Failed,0.8,3,2024-07-29
+EGOV-1211,Pension Scheme,43,Patna,Portal,Pending,2.9,4,2024-07-30
+EGOV-1212,Driving Licence,51,Lucknow,Csc Center,Completed,6.2,4,2024-07-31
+EGOV-1213,Pension Scheme,52,Jaipur,Csc Center,Pending,9.1,2,2024-08-01
+EGOV-1214,Tax Filing (ITR),22,Unknown,Portal,Completed,1.5,2,2024-08-02
+EGOV-1215,Driving Licence,79,Bhopal,Unknown,Completed,0.9,3,2024-01-15
+EGOV-1216,Voter ID Registration,31,Lucknow,Csc Center,Pending,6.5,4,2024-08-04
+EGOV-1217,Driving Licence,59,Patna,Unknown,Failed,0.0,3,2024-08-05
+EGOV-1218,Ration Card,18,Jaipur,Portal,Failed,1.2,3,2024-08-06
+EGOV-1219,Pension Scheme,50,Patna,Unknown,In Progress,0.2,3,2024-08-07
+EGOV-1220,Tax Filing (ITR),84,Patna,Mobile App,Completed,1.1,2,2024-01-15
+EGOV-1221,Tax Filing (ITR),45,Unknown,Kiosk,Completed,1.2,4,2024-08-09
+EGOV-1222,Birth Certificate,33,Patna,Csc Center,In Progress,2.9,2,2024-08-10
+EGOV-1223,Voter ID Registration,75,Jaipur,Kiosk,Failed,3.1,5,2024-08-11
+EGOV-1224,Passport Application,68,Patna,Unknown,Pending,12.4,3,2024-08-12
+EGOV-1225,Passport Application,53,Jaipur,Csc Center,Failed,4.3,3,2024-06-15
+EGOV-1226,Driving Licence,33,Lucknow,Unknown,Pending,7.7,4,2024-08-14
+EGOV-1227,Birth Certificate,53,Jaipur,Mobile App,In Progress,0.7,4,2024-08-15
+EGOV-1228,Aadhaar Update,81,Jaipur,Portal,Completed,1.5,4,2024-08-16
+EGOV-1229,Driving Licence,50,Bhopal,Csc Center,Failed,7.3,4,2024-08-17
+EGOV-1230,Birth Certificate,27,Jaipur,Mobile App,Pending,0.3,2,2024-08-18
+EGOV-1231,Voter ID Registration,72,Jaipur,Mobile App,Completed,4.0,4,2024-08-19
+EGOV-1232,Voter ID Registration,34,Patna,Csc Center,Completed,5.5,2,2024-08-20
+EGOV-1233,Voter ID Registration,75,Lucknow,Unknown,Pending,5.5,1,2024-08-21
+EGOV-1234,Voter ID Registration,53,Unknown,Mobile App,In Progress,0.1,4,2024-08-22
+EGOV-1235,Voter ID Registration,50,Bhopal,Kiosk,Completed,2.3,5,2024-08-23
+EGOV-1236,Birth Certificate,50,Patna,Mobile App,Completed,6.1,4,2024-08-24
+EGOV-1237,Birth Certificate,76,Lucknow,Unknown,Completed,1.0,4,2024-08-25
+EGOV-1238,Tax Filing (ITR),77,Lucknow,Unknown,Failed,7.1,4,2024-08-26
+EGOV-1239,Ration Card,39,Lucknow,Kiosk,Pending,8.2,2,2024-08-27
+EGOV-1240,Passport Application,70,Lucknow,Mobile App,Completed,24.1,3,2024-08-28
+EGOV-1241,Pension Scheme,47,Unknown,Unknown,Completed,1.4,5,2024-08-29
+EGOV-1242,Voter ID Registration,52,Jaipur,Csc Center,In Progress,10.5,3,2024-08-30
+EGOV-1243,Aadhaar Update,20,Patna,Portal,Completed,4.4,5,2024-08-31
+EGOV-1244,Pension Scheme,72,Patna,Portal,Pending,2.8,4,2024-09-01
+EGOV-1245,Birth Certificate,58,Bhopal,Portal,Completed,0.8,2,2024-09-02
+EGOV-1246,Aadhaar Update,59,Patna,Mobile App,Failed,8.0,4,2024-09-03
+EGOV-1247,Aadhaar Update,46,Lucknow,Kiosk,Completed,1.6,4,2024-09-04
+EGOV-1248,Aadhaar Update,59,Lucknow,Unknown,Completed,2.8,3,2024-09-05
+EGOV-1249,Tax Filing (ITR),75,Unknown,Csc Center,Failed,0.4,5,2024-09-06
+EGOV-1250,Birth Certificate,61,Lucknow,Csc Center,Completed,9.7,4,2024-09-07
+EGOV-1251,Aadhaar Update,35,Bhopal,Mobile App,Pending,8.7,2,2024-09-08
+EGOV-1252,Voter ID Registration,50,Lucknow,Portal,Pending,7.9,4,2024-09-09
+EGOV-1253,Driving Licence,33,Lucknow,Mobile App,Pending,2.1,4,2024-09-10
+EGOV-1254,Aadhaar Update,34,Bhopal,Kiosk,In Progress,1.1,2,2024-09-11
+EGOV-1255,Tax Filing (ITR),71,Patna,Kiosk,In Progress,6.1,5,2024-09-12
+EGOV-1256,Pension Scheme,32,Patna,Unknown,Completed,4.1,3,2024-09-13
+EGOV-1257,Birth Certificate,61,Bhopal,Unknown,Pending,1.2,5,2024-09-14
+EGOV-1258,Ration Card,63,Unknown,Kiosk,Failed,6.9,5,2024-09-15
+EGOV-1259,Tax Filing (ITR),28,Lucknow,Kiosk,Completed,28.3,3,2024-09-16
+EGOV-1260,Aadhaar Update,29,Lucknow,Kiosk,Completed,8.3,3,2024-09-17
+EGOV-1261,Birth Certificate,45,Unknown,Mobile App,Failed,8.1,5,2024-09-18
+EGOV-1262,Driving Licence,50,Lucknow,Kiosk,In Progress,18.0,4,2024-09-19
+EGOV-1263,Aadhaar Update,68,Lucknow,Csc Center,In Progress,1.4,5,2024-09-20
+EGOV-1264,Tax Filing (ITR),50,Patna,Portal,Failed,5.0,2,2024-09-21
+EGOV-1265,Passport Application,30,Unknown,Kiosk,In Progress,23.4,5,2024-09-22
+EGOV-1266,Voter ID Registration,71,Jaipur,Portal,Pending,1.1,4,2024-09-23
+EGOV-1267,Ration Card,26,Jaipur,Mobile App,Completed,7.2,5,2024-09-24
+EGOV-1268,Pension Scheme,30,Jaipur,Portal,Completed,5.3,2,2024-09-25
+EGOV-1269,Tax Filing (ITR),38,Patna,Mobile App,Completed,5.3,4,2024-09-26
+EGOV-1270,Birth Certificate,42,Patna,Csc Center,Completed,4.0,4,2024-09-27
+EGOV-1271,Ration Card,22,Lucknow,Mobile App,Completed,15.9,3,2024-09-28
+EGOV-1272,Ration Card,50,Lucknow,Mobile App,Completed,9.2,4,2024-09-29
+EGOV-1273,Ration Card,22,Lucknow,Unknown,Failed,0.3,1,2024-09-30
+EGOV-1274,Aadhaar Update,72,Lucknow,Kiosk,Completed,11.5,5,2024-10-01
+EGOV-1275,Voter ID Registration,74,Patna,Kiosk,Completed,1.5,4,2024-10-02
+EGOV-1276,Aadhaar Update,64,Jaipur,Csc Center,Completed,2.8,1,2024-10-03
+EGOV-1277,Birth Certificate,42,Patna,Csc Center,Completed,3.7,4,2024-10-04
+EGOV-1278,Aadhaar Update,55,Lucknow,Kiosk,Failed,3.9,4,2024-06-15
+EGOV-1279,Passport Application,78,Patna,Unknown,Pending,3.4,1,2024-10-06
+EGOV-1280,Voter ID Registration,41,Jaipur,Kiosk,Completed,16.6,4,2024-10-07
+EGOV-1281,Voter ID Registration,77,Unknown,Unknown,Completed,7.3,4,2024-10-08
+EGOV-1282,Birth Certificate,31,Patna,Csc Center,Pending,6.0,4,2024-10-09
+EGOV-1283,Pension Scheme,47,Patna,Portal,Pending,0.3,2,2024-10-10
+EGOV-1284,Passport Application,43,Patna,Csc Center,Completed,14.1,5,2024-10-11
+EGOV-1285,Tax Filing (ITR),27,Bhopal,Csc Center,Completed,14.4,4,2024-06-15
+EGOV-1286,Voter ID Registration,60,Lucknow,Mobile App,Completed,9.1,3,2024-10-13
+EGOV-1287,Driving Licence,49,Patna,Mobile App,Completed,0.0,4,2024-10-14
+EGOV-1288,Aadhaar Update,20,Patna,Mobile App,Pending,0.4,4,2024-10-15
+EGOV-1289,Ration Card,83,Patna,Mobile App,Completed,1.5,4,2024-10-16
+EGOV-1290,Aadhaar Update,61,Jaipur,Unknown,Completed,0.8,4,2024-10-17
+EGOV-1291,Tax Filing (ITR),39,Unknown,Kiosk,Completed,3.1,4,2024-10-18
+EGOV-1292,Aadhaar Update,80,Bhopal,Portal,Failed,120.3,5,2024-10-19
+EGOV-1293,Passport Application,24,Lucknow,Csc Center,Completed,3.8,3,2024-10-20
+EGOV-1294,Passport Application,70,Lucknow,Unknown,Completed,0.1,5,2024-10-21
+EGOV-1295,Voter ID Registration,44,Unknown,Portal,Pending,2.0,5,2024-10-22
+EGOV-1296,Birth Certificate,19,Unknown,Unknown,Completed,0.3,4,2024-10-23
+EGOV-1297,Pension Scheme,47,Jaipur,Unknown,Completed,0.2,4,2024-10-24
+EGOV-1298,Driving Licence,79,Patna,Csc Center,Failed,1.9,4,2024-10-25
+EGOV-1299,Ration Card,32,Patna,Kiosk,Completed,1.9,4,2024-10-26
+EGOV-1300,Aadhaar Update,63,Jaipur,Mobile App,In Progress,9.3,5,2024-10-27
+EGOV-1301,Aadhaar Update,25,Patna,Kiosk,Failed,22.1,4,2024-10-28
+EGOV-1302,Tax Filing (ITR),40,Patna,Csc Center,Completed,2.8,4,2024-10-29
+EGOV-1303,Birth Certificate,77,Bhopal,Csc Center,Pending,3.4,1,2024-10-30
+EGOV-1304,Passport Application,73,Lucknow,Csc Center,Completed,11.2,1,2024-10-31
+EGOV-1305,Driving Licence,41,Unknown,Portal,Completed,1.9,4,2024-11-01
+EGOV-1306,Voter ID Registration,63,Unknown,Kiosk,Completed,1.0,3,2024-11-02
+EGOV-1307,Passport Application,47,Bhopal,Kiosk,In Progress,11.5,3,2024-11-03
+EGOV-1308,Ration Card,50,Patna,Unknown,Failed,0.3,3,2024-11-04
+EGOV-1309,Birth Certificate,35,Unknown,Unknown,Failed,5.8,3,2024-11-05
+EGOV-1310,Ration Card,69,Lucknow,Unknown,Completed,5.0,1,2024-11-06
+EGOV-1311,Pension Scheme,20,Lucknow,Csc Center,In Progress,2.5,4,2024-11-07
+EGOV-1312,Voter ID Registration,83,Lucknow,Kiosk,Completed,2.3,3,2024-11-08
+EGOV-1313,Pension Scheme,19,Unknown,Csc Center,Completed,8.9,5,2024-11-09
+EGOV-1314,Tax Filing (ITR),50,Jaipur,Portal,Completed,0.5,5,2024-11-10
+EGOV-1315,Ration Card,67,Unknown,Unknown,Failed,1.6,4,2024-11-11
+EGOV-1316,Tax Filing (ITR),37,Jaipur,Csc Center,Completed,7.9,1,2024-11-12
+EGOV-1317,Aadhaar Update,67,Unknown,Csc Center,Completed,4.8,5,2024-11-13
+EGOV-1318,Pension Scheme,51,Lucknow,Portal,Completed,0.8,4,2024-11-14
+EGOV-1319,Birth Certificate,31,Patna,Mobile App,In Progress,12.8,4,2024-11-15
+EGOV-1320,Ration Card,50,Lucknow,Kiosk,Failed,3.0,4,2024-11-16
+EGOV-1321,Driving Licence,65,Unknown,Mobile App,Completed,10.6,5,2024-11-17
+EGOV-1322,Voter ID Registration,59,Lucknow,Unknown,Completed,9.3,3,2024-11-18
+EGOV-1323,Passport Application,18,Jaipur,Csc Center,Completed,5.9,5,2024-11-19
+EGOV-1324,Birth Certificate,76,Jaipur,Portal,Pending,4.1,4,2024-11-20
+EGOV-1325,Birth Certificate,79,Lucknow,Portal,In Progress,23.3,5,2024-11-21
+EGOV-1326,Tax Filing (ITR),46,Bhopal,Kiosk,Completed,0.9,4,2024-11-22
+EGOV-1327,Pension Scheme,48,Unknown,Mobile App,Pending,7.7,3,2024-01-15
+EGOV-1328,Ration Card,53,Patna,Kiosk,Completed,1.3,4,2024-11-24
+EGOV-1329,Ration Card,40,Jaipur,Csc Center,In Progress,2.5,2,2024-11-25
+EGOV-1330,Aadhaar Update,48,Patna,Kiosk,Completed,2.2,1,2024-11-26
+EGOV-1331,Aadhaar Update,68,Patna,Portal,Failed,17.6,1,2024-11-27
+EGOV-1332,Voter ID Registration,50,Jaipur,Portal,In Progress,20.5,3,2024-11-28
+EGOV-1333,Tax Filing (ITR),64,Bhopal,Unknown,Pending,1.2,4,2024-11-29
+EGOV-1334,Birth Certificate,26,Bhopal,Unknown,Failed,0.1,1,2024-11-30
+EGOV-1335,Ration Card,79,Lucknow,Csc Center,Completed,7.6,1,2024-12-01
+EGOV-1336,Driving Licence,68,Patna,Mobile App,Pending,3.2,4,2024-12-02
+EGOV-1337,Tax Filing (ITR),19,Lucknow,Kiosk,Completed,0.6,5,2024-12-03
+EGOV-1338,Voter ID Registration,71,Patna,Csc Center,Completed,6.9,5,2024-12-04
+EGOV-1339,Voter ID Registration,31,Unknown,Unknown,Completed,4.7,5,2024-12-05
+EGOV-1340,Tax Filing (ITR),50,Unknown,Kiosk,Completed,23.6,4,2024-12-06
+EGOV-1341,Voter ID Registration,37,Patna,Unknown,In Progress,1.5,2,2024-12-07
+EGOV-1342,Tax Filing (ITR),28,Unknown,Kiosk,Completed,3.1,3,2024-12-08
+EGOV-1343,Passport Application,80,Patna,Mobile App,Pending,4.7,5,2024-12-09
+EGOV-1344,Tax Filing (ITR),65,Unknown,Csc Center,Failed,9.4,3,2024-12-10
+EGOV-1345,Pension Scheme,52,Lucknow,Kiosk,Completed,4.8,4,2024-12-11
+EGOV-1346,Tax Filing (ITR),78,Unknown,Portal,Pending,5.7,1,2024-12-12
+EGOV-1347,Voter ID Registration,52,Lucknow,Portal,Completed,1.5,3,2024-12-13
+EGOV-1348,Ration Card,64,Jaipur,Kiosk,Pending,11.3,4,2024-12-14
+EGOV-1349,Pension Scheme,44,Lucknow,Kiosk,Failed,3.4,4,2024-12-15
+EGOV-1350,Voter ID Registration,65,Jaipur,Kiosk,Pending,0.9,4,2024-12-16
+EGOV-1351,Aadhaar Update,77,Bhopal,Portal,Completed,6.5,4,2024-12-17
+EGOV-1352,Aadhaar Update,66,Lucknow,Portal,Failed,1.5,1,2024-12-18
+EGOV-1353,Ration Card,52,Bhopal,Kiosk,In Progress,0.6,2,2024-12-19
+EGOV-1354,Ration Card,44,Patna,Unknown,Completed,11.9,5,2024-12-20
+EGOV-1355,Pension Scheme,65,Patna,Unknown,Completed,3.7,4,2024-12-21
+EGOV-1356,Passport Application,19,Lucknow,Mobile App,In Progress,8.3,2,2024-12-22
+EGOV-1357,Ration Card,43,Unknown,Csc Center,Pending,2.1,5,2024-12-23
+EGOV-1358,Aadhaar Update,18,Lucknow,Unknown,Failed,120.3,3,2024-12-24
+EGOV-1359,Tax Filing (ITR),24,Bhopal,Portal,Completed,0.7,4,2024-06-15
+EGOV-1360,Voter ID Registration,70,Jaipur,Unknown,Completed,2.6,2,2024-12-26
+EGOV-1361,Aadhaar Update,31,Patna,Mobile App,In Progress,22.9,4,2024-12-27
+EGOV-1362,Aadhaar Update,31,Unknown,Mobile App,In Progress,9.5,4,2024-12-28
+EGOV-1363,Passport Application,83,Patna,Csc Center,Completed,4.1,3,2024-12-29
+EGOV-1364,Pension Scheme,48,Jaipur,Unknown,Pending,2.5,5,2024-12-30
+EGOV-1365,Pension Scheme,20,Unknown,Portal,Completed,12.3,3,2024-12-31
+EGOV-1366,Birth Certificate,67,Unknown,Portal,In Progress,4.7,3,2025-01-01
+EGOV-1367,Passport Application,80,Bhopal,Kiosk,Completed,8.5,2,2024-01-15
+EGOV-1368,Tax Filing (ITR),57,Bhopal,Portal,Completed,8.4,3,2025-01-03
+EGOV-1369,Pension Scheme,37,Lucknow,Csc Center,Completed,0.1,1,2025-01-04
+EGOV-1370,Voter ID Registration,69,Lucknow,Csc Center,In Progress,0.8,4,2025-01-05
+EGOV-1371,Ration Card,30,Patna,Portal,Pending,6.5,5,2025-01-06
+EGOV-1372,Passport Application,22,Patna,Portal,In Progress,1.1,4,2025-01-07
+EGOV-1373,Ration Card,18,Lucknow,Kiosk,Pending,1.8,3,2025-01-08
+EGOV-1374,Aadhaar Update,18,Patna,Portal,Completed,17.6,1,2025-01-09
+EGOV-1375,Voter ID Registration,70,Lucknow,Kiosk,Pending,4.9,3,2025-01-10
+EGOV-1376,Voter ID Registration,39,Bhopal,Kiosk,Failed,8.3,3,2025-01-11
+EGOV-1377,Aadhaar Update,81,Jaipur,Portal,Failed,4.9,5,2025-01-12
+EGOV-1378,Passport Application,81,Bhopal,Mobile App,Failed,4.8,2,2025-01-13
+EGOV-1379,Aadhaar Update,41,Patna,Mobile App,Completed,0.6,4,2025-01-14
+EGOV-1380,Ration Card,46,Patna,Kiosk,Completed,2.5,5,2025-01-15
+EGOV-1381,Birth Certificate,64,Bhopal,Portal,In Progress,2.0,4,2025-01-16
+EGOV-1382,Voter ID Registration,75,Lucknow,Mobile App,In Progress,3.0,5,2025-01-17
+EGOV-1383,Tax Filing (ITR),65,Patna,Portal,Completed,9.6,4,2025-01-18
+EGOV-1384,Driving Licence,33,Patna,Portal,Pending,2.8,4,2025-01-19
+EGOV-1385,Ration Card,35,Jaipur,Portal,Completed,3.6,4,2025-01-20
+EGOV-1386,Tax Filing (ITR),19,Patna,Unknown,Pending,120.3,4,2025-01-21
+EGOV-1387,Pension Scheme,56,Unknown,Portal,Pending,0.6,3,2025-01-22
+EGOV-1388,Aadhaar Update,75,Lucknow,Unknown,Completed,3.5,3,2025-01-23
+EGOV-1389,Aadhaar Update,36,Patna,Kiosk,In Progress,1.3,3,2025-01-24
+EGOV-1390,Tax Filing (ITR),35,Jaipur,Mobile App,Failed,1.2,4,2025-01-25
+EGOV-1391,Tax Filing (ITR),84,Lucknow,Mobile App,Pending,0.6,2,2025-01-26
+EGOV-1392,Ration Card,50,Patna,Mobile App,Completed,2.6,5,2025-01-27
+EGOV-1393,Ration Card,19,Lucknow,Mobile App,In Progress,8.5,5,2025-01-28
+EGOV-1394,Tax Filing (ITR),26,Patna,Mobile App,Failed,1.9,3,2025-01-29
+EGOV-1395,Voter ID Registration,60,Lucknow,Mobile App,Pending,2.2,2,2025-01-30
+EGOV-1396,Ration Card,48,Lucknow,Mobile App,Pending,6.2,5,2025-01-31
+EGOV-1397,Birth Certificate,63,Unknown,Kiosk,Completed,1.3,5,2025-02-01
+EGOV-1398,Ration Card,59,Lucknow,Portal,Completed,13.6,5,2024-06-15
+EGOV-1399,Aadhaar Update,41,Patna,Csc Center,In Progress,4.4,3,2025-02-03
+EGOV-1400,Ration Card,40,Patna,Unknown,Failed,3.6,3,2024-01-15
+EGOV-1401,Voter ID Registration,61,Jaipur,Csc Center,Pending,4.9,2,2025-02-05
+EGOV-1402,Tax Filing (ITR),70,Patna,Csc Center,In Progress,1.1,2,2025-02-06
+EGOV-1403,Aadhaar Update,77,Bhopal,Portal,In Progress,5.7,5,2025-02-07
+EGOV-1404,Ration Card,62,Patna,Portal,Completed,2.7,4,2025-02-08
+EGOV-1405,Voter ID Registration,75,Patna,Portal,Completed,13.6,4,2025-02-09
+EGOV-1406,Birth Certificate,40,Lucknow,Mobile App,Failed,1.1,5,2025-02-10
+EGOV-1407,Ration Card,50,Lucknow,Kiosk,Pending,4.2,4,2025-02-11
+EGOV-1408,Voter ID Registration,50,Patna,Mobile App,In Progress,5.5,4,2025-02-12
+EGOV-1409,Birth Certificate,22,Unknown,Kiosk,Pending,0.2,3,2025-02-13
+EGOV-1410,Tax Filing (ITR),66,Lucknow,Kiosk,Completed,2.7,4,2025-02-14
+EGOV-1411,Ration Card,61,Jaipur,Csc Center,Failed,7.9,2,2025-02-15
+EGOV-1412,Birth Certificate,70,Patna,Csc Center,In Progress,10.3,4,2025-02-16
+EGOV-1413,Aadhaar Update,28,Patna,Kiosk,Pending,2.3,5,2025-02-17
+EGOV-1414,Tax Filing (ITR),42,Lucknow,Kiosk,Completed,9.6,2,2025-02-18
+EGOV-1415,Aadhaar Update,50,Patna,Mobile App,Completed,20.6,4,2025-02-19
+EGOV-1416,Driving Licence,40,Bhopal,Mobile App,Failed,11.7,5,2025-02-20
+EGOV-1417,Passport Application,28,Lucknow,Csc Center,Completed,0.8,4,2025-02-21
+EGOV-1418,Ration Card,73,Patna,Portal,Completed,8.1,5,2025-02-22
+EGOV-1419,Birth Certificate,70,Patna,Kiosk,Failed,2.3,4,2025-02-23
+EGOV-1420,Passport Application,21,Lucknow,Mobile App,Completed,26.7,4,2025-02-24
+EGOV-1421,Passport Application,50,Lucknow,Csc Center,Completed,4.0,3,2025-02-25
+EGOV-1422,Birth Certificate,37,Lucknow,Mobile App,Completed,0.8,4,2025-02-26
+EGOV-1423,Tax Filing (ITR),32,Patna,Kiosk,Completed,7.7,4,2025-02-27
+EGOV-1424,Passport Application,52,Patna,Kiosk,Completed,2.3,2,2025-02-28
+EGOV-1425,Driving Licence,29,Bhopal,Unknown,Completed,35.0,1,2025-03-01
+EGOV-1426,Aadhaar Update,78,Unknown,Portal,Completed,23.4,4,2025-03-02
+EGOV-1427,Voter ID Registration,42,Lucknow,Unknown,Pending,6.4,4,2025-03-03
+EGOV-1428,Aadhaar Update,53,Patna,Csc Center,In Progress,0.8,5,2025-03-04
+EGOV-1429,Voter ID Registration,71,Patna,Mobile App,Completed,7.0,4,2025-03-05
+EGOV-1430,Aadhaar Update,31,Lucknow,Csc Center,Pending,0.6,2,2025-03-06
+EGOV-1431,Birth Certificate,58,Jaipur,Kiosk,Completed,0.2,3,2025-03-07
+EGOV-1432,Driving Licence,39,Lucknow,Unknown,In Progress,10.4,5,2024-06-15
+EGOV-1433,Ration Card,31,Unknown,Unknown,Completed,1.4,2,2025-03-09
+EGOV-1434,Voter ID Registration,27,Patna,Unknown,In Progress,2.9,3,2025-03-10
+EGOV-1435,Ration Card,39,Jaipur,Csc Center,Completed,21.8,2,2025-03-11
+EGOV-1436,Ration Card,82,Patna,Kiosk,In Progress,2.5,4,2025-03-12
+EGOV-1437,Ration Card,24,Bhopal,Mobile App,Pending,2.1,4,2025-03-13
+EGOV-1438,Pension Scheme,81,Lucknow,Mobile App,Failed,15.0,3,2025-03-14
+EGOV-1439,Tax Filing (ITR),32,Lucknow,Csc Center,Pending,0.7,4,2025-03-15
+EGOV-1440,Aadhaar Update,48,Lucknow,Unknown,Completed,8.6,4,2025-03-16
+EGOV-1441,Ration Card,22,Unknown,Portal,Pending,26.6,4,2025-03-17
+EGOV-1442,Aadhaar Update,54,Patna,Csc Center,Completed,120.3,2,2025-03-18
+EGOV-1443,Ration Card,56,Lucknow,Csc Center,Completed,6.3,4,2025-03-19
+EGOV-1444,Voter ID Registration,55,Lucknow,Kiosk,In Progress,2.3,3,2025-03-20
+EGOV-1445,Tax Filing (ITR),20,Patna,Mobile App,Completed,1.8,5,2025-03-21
+EGOV-1446,Tax Filing (ITR),66,Lucknow,Csc Center,Failed,10.3,4,2025-03-22
+EGOV-1447,Birth Certificate,40,Bhopal,Csc Center,Completed,12.7,2,2025-03-23
+EGOV-1448,Pension Scheme,78,Patna,Unknown,In Progress,4.5,4,2025-03-24
+EGOV-1449,Birth Certificate,73,Patna,Unknown,Completed,1.7,5,2025-03-25
+EGOV-1450,Birth Certificate,70,Patna,Portal,In Progress,0.7,1,2025-03-26
+EGOV-1451,Birth Certificate,73,Patna,Kiosk,In Progress,0.5,5,2025-03-27
+EGOV-1452,Birth Certificate,84,Bhopal,Portal,In Progress,7.6,2,2025-03-28
+EGOV-1453,Birth Certificate,47,Patna,Unknown,Completed,3.3,4,2025-03-29
+EGOV-1454,Driving Licence,67,Jaipur,Mobile App,Pending,14.1,3,2025-03-30
+EGOV-1455,Tax Filing (ITR),36,Lucknow,Unknown,In Progress,8.1,4,2025-03-31
+EGOV-1456,Birth Certificate,35,Jaipur,Kiosk,Completed,1.3,3,2025-04-01
+EGOV-1457,Ration Card,84,Lucknow,Unknown,Failed,5.7,5,2025-04-02
+EGOV-1458,Tax Filing (ITR),84,Bhopal,Kiosk,Completed,3.4,5,2025-04-03
+EGOV-1459,Tax Filing (ITR),18,Jaipur,Kiosk,Completed,5.2,4,2025-04-04
+EGOV-1460,Passport Application,76,Patna,Kiosk,Completed,8.0,5,2025-04-05
+EGOV-1461,Driving Licence,76,Lucknow,Kiosk,Completed,9.8,5,2025-04-06
+EGOV-1462,Birth Certificate,38,Lucknow,Kiosk,Completed,11.1,1,2025-04-07
+EGOV-1463,Aadhaar Update,69,Jaipur,Mobile App,Completed,1.8,3,2025-04-08
+EGOV-1464,Voter ID Registration,23,Jaipur,Portal,In Progress,0.2,4,2025-04-09
+EGOV-1465,Pension Scheme,50,Bhopal,Csc Center,Pending,8.1,2,2025-04-10
+EGOV-1466,Ration Card,45,Lucknow,Portal,Completed,0.7,5,2025-04-11
+EGOV-1467,Aadhaar Update,54,Jaipur,Kiosk,Completed,2.3,4,2025-04-12
+EGOV-1468,Driving Licence,50,Unknown,Mobile App,Completed,0.0,1,2025-04-13
+EGOV-1469,Voter ID Registration,38,Jaipur,Unknown,Completed,6.9,4,2025-04-14
+EGOV-1470,Driving Licence,20,Patna,Mobile App,Completed,1.1,4,2025-04-15
+EGOV-1471,Ration Card,80,Patna,Kiosk,Failed,6.4,4,2025-04-16
+EGOV-1472,Tax Filing (ITR),18,Unknown,Mobile App,In Progress,28.8,2,2025-04-17
+EGOV-1473,Voter ID Registration,20,Unknown,Mobile App,Completed,0.5,1,2025-04-18
+EGOV-1474,Tax Filing (ITR),65,Patna,Kiosk,Pending,0.5,4,2025-04-19
+EGOV-1475,Ration Card,76,Patna,Mobile App,In Progress,2.5,5,2025-04-20
+EGOV-1476,Aadhaar Update,71,Lucknow,Csc Center,Completed,12.1,5,2025-04-21
+EGOV-1477,Ration Card,80,Lucknow,Csc Center,In Progress,1.5,4,2025-04-22
+EGOV-1478,Aadhaar Update,22,Patna,Mobile App,In Progress,2.7,2,2025-04-23
+EGOV-1479,Voter ID Registration,40,Bhopal,Unknown,In Progress,0.4,4,2025-04-24
+EGOV-1480,Voter ID Registration,65,Unknown,Kiosk,Failed,8.6,3,2025-04-25
+EGOV-1481,Birth Certificate,59,Bhopal,Csc Center,Pending,3.1,5,2025-04-26
+EGOV-1482,Driving Licence,58,Jaipur,Unknown,Completed,8.5,5,2025-04-27
+EGOV-1483,Birth Certificate,19,Jaipur,Mobile App,Completed,14.0,4,2025-04-28
+EGOV-1484,Driving Licence,84,Bhopal,Unknown,Completed,1.6,4,2025-04-29
+EGOV-1485,Birth Certificate,40,Jaipur,Portal,In Progress,9.9,1,2025-04-30
+EGOV-1486,Tax Filing (ITR),82,Lucknow,Csc Center,Completed,0.4,5,2025-05-01
+EGOV-1487,Voter ID Registration,33,Patna,Mobile App,Failed,13.7,3,2025-05-02
+EGOV-1488,Aadhaar Update,34,Jaipur,Kiosk,Failed,6.3,5,2025-05-03
+EGOV-1489,Driving Licence,26,Lucknow,Mobile App,Completed,12.4,3,2025-05-04
+EGOV-1490,Ration Card,61,Jaipur,Kiosk,Failed,0.0,5,2025-05-05
+EGOV-1491,Driving Licence,50,Patna,Mobile App,Completed,1.1,5,2025-05-06
+EGOV-1492,Aadhaar Update,28,Lucknow,Unknown,Pending,3.0,1,2025-05-07
+EGOV-1493,Birth Certificate,78,Patna,Unknown,Completed,2.9,3,2024-01-15
+EGOV-1494,Driving Licence,52,Patna,Unknown,Pending,1.5,5,2025-05-09
+EGOV-1495,Pension Scheme,51,Lucknow,Portal,Failed,2.9,4,2025-05-10
+EGOV-1496,Tax Filing (ITR),25,Lucknow,Kiosk,Pending,0.8,3,2024-06-15
+EGOV-1497,Voter ID Registration,50,Lucknow,Unknown,Pending,3.2,3,2025-05-12
+EGOV-1498,Aadhaar Update,47,Lucknow,Portal,Pending,9.7,2,2025-05-13
+EGOV-1499,Voter ID Registration,20,Lucknow,Kiosk,Failed,3.9,5,2025-05-14
+EGOV-1001,Voter ID Registration,46,Patna,Unknown,In Progress,12.5,4,2024-01-15
